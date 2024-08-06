@@ -26,3 +26,11 @@ Most importantly perhaps, precision medicine can significantly reduce the time c
 [IDH]
 
 [TRG]
+
+
+# Members 
+[Ashkan Bigdeli]
+
+[Akshay Chitturi]
+
+[Chase Rushton]
