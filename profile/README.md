@@ -1,7 +1,7 @@
 # 💫 About Us:
 
 
-The Center for Personalized Diagnostics (CPD) is a joint initiative between Penn Medicine's Department of Pathology and Laboratory Medicine and the Abramson Cancer Center to support precision medicine at Penn.
+The Center for Personalized Diagnostics [CPD](https://pennmedicine.org/departments-and-centers/center-for-personalized-diagnostics) is a joint initiative between [Penn Medicine's Department of Pathology and Laboratory Medicine](https://pathology.med.upenn.edu/) and the [Abramson Cancer Center](https://www.pennmedicine.org/abramson-cancer) to support precision medicine at Penn.
 
 The CPD aims to uncover genetic mutations within a patient's own cancer that can allow for a more targeted and personalized "precision" treatment strategy.
 
